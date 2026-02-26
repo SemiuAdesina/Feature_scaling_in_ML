@@ -1,0 +1,1 @@
+Demonstrates core ML data prep: Pandas DataFrame creation, train-test split, and StandardScaler feature scaling. Focuses on fitting scaler to training data and transforming both sets to prevent data leakage.
